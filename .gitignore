@@ -1,0 +1,5 @@
+__pycache__/
+db.sqlite3
+uv.lock
+pyproject.toml
+.python-version
